@@ -1,3 +1,7 @@
 class Person
   
-  def 
+  def job
+    @job
+  end
+  
+  def jo
