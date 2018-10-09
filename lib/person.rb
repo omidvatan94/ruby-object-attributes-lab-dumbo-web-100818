@@ -4,4 +4,5 @@ class Person
     @job
   end
   
-  def jo
+  def job=(new_job)
+    
